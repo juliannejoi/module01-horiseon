@@ -42,4 +42,4 @@ SO THAT our own site is optimized for search engines
 
 * Ensure nav links on header are operating as expected
 
- 
+ ![Capture](https://user-images.githubusercontent.com/118871549/209620956-f603b9fb-6c4b-4b7f-a754-f8d112af88e1.PNG)
